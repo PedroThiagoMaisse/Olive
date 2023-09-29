@@ -20,7 +20,7 @@ The main ideia is being able to see current and recently runned pipelines, last 
 
     </details>
 5. Simple Running method
-6. Git Flow
+6. ~Git Flow~
 
 ### 2. Basis
 1. Set APIKeys / login
