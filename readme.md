@@ -7,7 +7,7 @@ The main ideia is being able to see current and recently runned pipelines, last 
 ## Backlog
 
 
-### Structure
+### 1. Structure
 1. Set the http server 
 2. Home page with a HTML response
 3. Draw a base DB schema
@@ -19,9 +19,10 @@ The main ideia is being able to see current and recently runned pipelines, last 
     - Update
 
     </details>
+5. Simple Running method
+6. Git Flow
 
-
-### Basis
+### 2. Basis
 1. Set APIKeys / login
     <details>
 
@@ -39,7 +40,7 @@ The main ideia is being able to see current and recently runned pipelines, last 
 
     </details>
     
-### More Functionality
+### 3. More Functionality
 1. Way to call another another project test routes
     <details>
 
@@ -73,7 +74,7 @@ The main ideia is being able to see current and recently runned pipelines, last 
     </details>
 
 
-### Even More (yay!)
+### 4. Even More (yay!)
 
 1. Check Uptime
     <details>
